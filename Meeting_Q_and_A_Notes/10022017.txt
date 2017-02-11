@@ -1,0 +1,53 @@
+Notes from Q&A Session and meeting 10/02/2017
+
+Think about Goals for the project.
+
+Output - A report due 05/05/2017
+	   - A presentation
+       - A system to do data science
+
+Ambition should be to get a really good mark - possibly part of your CV.
+	   
+Team members should work approximately 1 / 2 days per week on this project.
+
+Teams should nominate a spokesperson - Guy
+
+The report should follow a template - a description of the problem, how we solved it and the outcome.
+
+Dan Schein sees no reason not to open source.
+
+The team should have a shared ambition of what you want to get out of it.
+
+Dan Schein recommends using Python for data analysis because of 
+	- ipython notebooks
+	- building tools
+	- pycharm - ide
+	- if using ipython notebooks, clear all images before checking into source control.
+	
+Project - Monitoring
+	- sensors are set up at certain locations in the U.K and are very expensive
+	- Project could be on how to analyse the sensors or how to utilise all of them, what kind of things do they need
+	- One angle to look it is can we reduce the number of sensors and still get the similar data quailtiy
+
+Problem Steps
+	- Data Collection and Storing
+	- Data Cleaning and Preprocessing
+	- Data Analysis
+	- Data Visualisation and Reporting
+
+Project Management will be done using trello
+    - need to set up template
+
+
+
+First Tasks
+Open and explore Data in Python
+	- Water Quality - Payam
+	- Flood - Frank
+	- Spatial Data - Martin
+
+Analyse existing Data Visualisation tools - Carlo
+
+Set up trello - Guy
+
+Organise meeting with environment agency - Guy
