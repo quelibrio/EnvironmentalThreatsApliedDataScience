@@ -1,0 +1,41 @@
+Notes from Q&A session 17/02/2017
+
+	- Questions for EA meeting
+		- What do they want?
+		- Is it Defra or the EA?
+			- Defra - Department of Environment, Food and Rural Affairs
+		- Is the data theirs?
+		
+	- Things to think about
+		- Meaning
+		- Hypothesis for efficieny
+		- Can we come up with an answer to one or several hypothesis to the environment agency?
+		- Initutions about how they use the sensors
+		- A tour of the data
+			- What sort of actions do they take based on the data?
+		- Try your hypothesis as you work on the problem
+		
+	- Big Questions	
+		- Can you use the sensors more efficiently?
+		- How do you measure efficiency of a sensor?
+		
+	- Hypothesis
+		- If we take away one sensor do we still get the same efficiency, or if we take away x sensors do we still get the same flood warnings?
+		- If we remove sensors that are closer together we still get the same efficiency.
+			- Could do this with flood data by weighting based on chance of flood warning, reorganise all the sensors and see the recalculated weights are better.
+	
+	- Session with environment agency
+		- Chris - a manager in the data knowledge team
+		- Tony - innovation lead
+		
+	- Kick off the discussion
+		- Talk about their data
+			- Come with as many questions as possible about it?
+			- How to measure if a sensor is efficient?
+			- If they have a preference over which data to study?
+			- What do they want out of this, software etc?
+			- What fields are important when measuring efficiency?
+		- What do we want out of this?
+		
+		
+		
