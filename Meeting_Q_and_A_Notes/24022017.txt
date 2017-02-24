@@ -1,0 +1,31 @@
+Notes from meeting and Q&A session 24/02/2017
+
+	- Milestones
+		- 15th March - next meeting
+		- 5th April
+		- 26th April - Final Deliverables - Model
+		- 5th May - Report/Presentation
+		
+	- Next Steps
+		- Explore linked data/catchment area data/catchment
+		- Start doing data wrangling/exploratory data analysis on data
+		- 3rd March - Decide on which things we want to investigate further, max 5 (1 per team member)
+		- Integration visualisation with the data
+			- libraries (think it was agreed we should use matplotlib) and apis to do this,
+		- Worth investigating the datapoints
+			- try to understand the data with an open mind.
+		- Think about using a database and how to query the data
+		- Idea
+			- Maybe a database exists that relates to a point on a map.
+		- Think about storing the data and investigate different options
+		
+	
+		- We should try to find the right tools for the problem and be able to justify them.
+			
+	**Actions**
+		- All - do some data wrangling/exploratory data analysis on the data
+			  - put ideas on trello on about what they want to investigate further
+		- Guy - Put column on trello for ideas
+			  - Investigate and create visualisations using Graph databases
+		- Martin - Investigate and create visualisations using SQL databases
+		- Frank - Investigate and create visualisations using NoSql databases
