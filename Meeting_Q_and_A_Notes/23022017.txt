@@ -1,0 +1,105 @@
+EA Meeting 23/02/2017
+
+Attendees from EA (Environment Agency)
+	Emma Shaw - innovation department
+		- looking at new technologies
+		- invovled with software
+		- done projects before with university students
+		- very interested in data
+		
+	John Burke - Business Analyst within IT department
+		- has lots of data and problems to solve
+		- we can do useful research for them
+		- projects can be not as objective
+		- link person
+		
+	Chris Jarvis - data management 
+		- how the EA make their data available
+		- how to publish data 
+		
+Attendees from EA1
+	- Martin Ivanov
+	- Frank Chen
+	- Guy Tucker
+		
+Data 
+	- anything that has got environment.data.gov.uk is their data
+	
+Problem
+		- Our hypothesis was to assume over sampling
+			- Use clustering to cluster similar sensors together
+			- Remove x similar sensors and see if we get same efficiency of the data
+		- Question how to measure efficiency	
+				- E.G. the environment agency collects samples of bathing water and analyse. As part of analysis a machine is used to detect if the water contains more than a certain threshold of different chemicals. The threshold may vary over time and there are different thresholds for different chemicals.
+ 			- One possible way is see find a lot of samples below the limits of detection
+		- We also would need to consider the type of monitors when removing similar sensors
+			- It might be justifible why there are many similar sensors in similar locations
+		
+		- The EA would be interested to see where we put the remaining x sensors
+		
+		- Another possible avenue is to try and find areas of undersampling
+			 - There may be reasons why they undersample in those locations 
+			 - Where the EA are monitoring that be less. A decision may be risk based.
+		
+		- Other insights e.g. source pollution
+			- The relationship between river flow levels and concentration of pollution?
+		
+		- The EA are happy with whichever problem we look at
+		- We should remit our searches to England
+			 
+Data Sources 
+	- Various sources from other government e.g. using local authority data to get a small sample
+	- Monitoring not done by the public sector e.g. The association of river trusts
+	- Providers that can work in a parternship with the EA
+	- Catchment data 
+		-data.gov 	- wfd managment catchments
+					- wfd river water body catchments
+					- os open rivers -> generalised river layers, flow direction
+	
+Considerations
+	- Consider by catchment data - like a hill where rain water will fall down, cause of pollutants may be found upstream
+	- Look at sub catchment data to define risk
+		- If there is nothing there then it is low risk
+		- Can be used to concentrate monitoring where needed
+	- Definition of boundaries of catchment areas are the accepted definition of a catchment
+	
+	- Linked data
+		- A data structure using common references, similar to semantic web
+		- It is how permits are published
+		- The EA do modelling and supporting machine to machine
+		- We could link water quaility to a different archive
+		- Can be quite powerful
+		- Can be used to grow a web of data about the environment, with the intention to provide insights
+		http://linkeddata.org/ , https://en.wikipedia.org/wiki/Linked_data 
+		
+	- Decide on risk after finding something in the data
+		- Data analysis may uncover risk
+		- Talk about the reality of putting a dataset together
+		- Injecting reality may also be required
+	
+	- The EA don't really do much data analysis.
+		- Their existing systems are more for reporting then analysis.
+			- e.g. Water information management systems.
+		- Know why they are collecting samples.
+		- Run reports to check whether permits are being effective.
+			-e.g. sampling bathing water to award the blue flag, if the bathing water quaility is poor find out what is causing it.
+		- They are interested to see whether they could/should do more.
+		
+	- Possibly look into the governments digital service digital strategy document. 
+		- The EA have no serious data analysis capability, no real machine learning capability, no unique data standards, no data scientists (they have no idea what to do with them or what they can make).
+		- We have the opportunity to demonstrate whether machine learning can produce usefull insights.
+		- What can the EA do with all that data?
+		 
+	
+Next Meeting
+	- Wednesday 15th March
+		- opportunity to take onboard what was said here and make some decisions.
+		
+Queries
+	- Send to the main 3 EA people listed above.
+	- Talk to the other group and see if we can help each other.
+
+
+	
+		
+		
