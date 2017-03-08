@@ -1,0 +1,42 @@
+Notes from meeting 08/03/2017
+
+Attendees
+	- Guy
+	- Martin
+	- Frank
+	- Carlo 
+	- Payam (by Phone)
+	
+Hypothesis Selection
+	- Clear majority for 1st 
+		- Predicting where pollution will end up
+	
+	- No clear 2nd
+		- Tool for visualising datasets
+		- Finding relationships between water quaility and flood datasets
+		- Predicting the river level
+		
+The next steps 
+	- Need more understanding of the water quailty
+		- Payam to find which water quaility measurements are high - Due Wednesday
+	- Actually get dataset
+		- Carlo to develop script - Due Wednesday
+		- Guy to get and understand catchment area data - Due Wednesday
+	- Generate ideas as to how to solve hypothesis
+		- Frank to research ideas - Due Wednesday
+	- Do we need a DB?
+		- May be able to get away with reading and writing files
+	- Improve current visualisation
+		- Martin to start improving orginal visualisations
+			
+Potential Idea
+	- We know the level of water before and after rainfall, we can visualise the river levels when it didn't rain for a week and see how the water changes over time.
+		
+Next Meeting
+	- Wednesday 15/03 with EA
+	
+COMMIT CODE TO GITHUB AND STOP ATTACHING TO TRELLO ITEMS
+	- Ask Martin if you don't have access to the repository
+		
+			
+
