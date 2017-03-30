@@ -1,0 +1,80 @@
+Notes from meeting with EA 15/03/2017
+
+Attendees
+	- Guy
+	- Frank
+	- Carlo
+	- Martin
+	
+Summary of the previous meeting
+	- Are we monitoring in the right places for the right times
+	- We have the data skills to find this out
+	
+	- Are others doing the same monitoring the EA do know about
+		- e.g. Bristol City Council, there is pretty much no cooperation
+
+Defra
+	- Collection of government organisations including EA, Forestry Commission etc.
+	- Each organisation can be blinkered
+	- It could be that others are doing the same thing
+	- Questions
+		- Are the EA monitoring the right things in the right places
+		- Could a similar amount of data be monitoring the same thing
+	- The EA do not know if they are doing good monitoring
+	
+Project
+	- Deliverables
+		- There is nothing specific the EA want to us to work on
+		
+	- What is in it for the EA?
+		- Find out interesting things
+		- Try and find interesting things
+		- The question is vague for a reason
+		- We should try not to lose this opportunity
+		- It would be nice to learn something different
+		
+	- Ideas
+		- Is there a better way of representing the data
+			- May want to create another map with circles and numbers
+		- Look at river quaility in relation to river levels
+			- Are those points similar or are they different?
+				- Almost start asking questions to that
+		- Plot factories/farms on a map
+			- What does this tell us?
+			- Should the EA put more monitoring close to big factories/farms?
+			- If it is bad why?
+		- Use something to pull other data together that is interesting
+		
+	- Data
+		- Rainfall API in Flood API
+			- Comparing rainfall with water quaility
+			- Comparing river level with water quailty
+	
+	- Notes
+		- Analysis may create insights
+		- If we want to go outside the box then feel free to
+		- Important to choose the right areas
+			- e.g. River levels will go up and down in different areas
+			- Quality measures
+		- Able to set objectives
+		- Our idea about the correlation between rainfall and water level is almost obvious
+			- The EA are doing work in this area at the moment
+			- The EA would find it more interesting to look at river quailty in relation to river levels
+		- Sensors may all be in the same/similar places
+		- Not a good idea to compare river level in rainfall data
+		- Have a look at wunderground (https://www.wunderground.com/) 
+			- A weather website created by amauteur weather people
+			- Can pull in their data if needed
+		- Do not necessarily regard the question as how the EA can improvement monitoring
+		- We might be able to draw some real assoications
+		- Do not feel restricted, choose an area that is interesting
+			- Whatever we do is likely to be of interest to the EA
+		- May be a useful exercise to catergorise and label data
+		
+*ACTIONS*
+	- Us 
+		- send John the URL to the windmap
+		
+*NEXT MEETINGS*
+	- 5th April (Week before easter)
+	- 26th April
