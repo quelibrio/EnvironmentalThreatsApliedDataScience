@@ -1,0 +1,37 @@
+Notes from meeting with Raul Santos-Rodrigues 14/03/2017
+
+Attendees
+	- Guy
+	- Frank
+	- Carlo
+	
+Discussed how to solve 'Predicting where pollution will end up' hypothesis
+
+Possibilities
+	- Labelling of data
+		- If DEFRA has no labels for data, we have 2 options:
+			- Come up with labels ourselves
+			- Use unsupervised learning, potentially to separate stations into groups by clustering
+	
+	- Check whether if you would expect to see pollution in general
+		- Possible places to explore would be near Sellafield (Cumbria, Location of Nuclear power plants) or Thames Area (see https://www.gov.uk/government/news/thames-water-ordered-to-pay-record-20-million-for-river-pollution)
+		- Could be used for feature selection
+	
+	- Merge the features
+		- Could determine causality
+	
+	- Could use Naive Bayes
+	
+How to approach the problem
+	- Simplify
+		- Check for the correlations between time series
+			- If two stations are close together they should have a high correlation
+			- Expect smoothness
+			- Try to spot those that have a different assumption
+			
+	- One possible approach
+		- Build a Hidden Markov Model (HMM) of a river to identify stations that are close together
+		- Plot time series of the stations that are close together and see if they are correlated	
+			- Potentially use clustering of time series to identify similar points
+		- Use machine learning to predict where pollution will end up	
+		
